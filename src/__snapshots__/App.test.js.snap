@@ -1,0 +1,252 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App there is a specific snapshot 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="interactions"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        onChange={[Function]}
+        type="text"
+        value="redux"
+      />
+      <button
+        type="submit"
+      >
+        Поиск
+      </button>
+    </form>
+  </div>
+  <div
+    className="interactions"
+  >
+    <i
+      className="fa fa-spinner"
+    />
+  </div>
+</div>
+`;
+
+exports[`Button there is a specific snapshot 1`] = `
+<button
+  className=""
+  onClick={[Function]}
+  type="button"
+>
+  Больше историй
+</button>
+`;
+
+exports[`Search there is a specific snapshot 1`] = `
+<form>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <button
+    type="submit"
+  >
+    Поиск
+  </button>
+</form>
+`;
+
+exports[`Table there is a specific snapshot 1`] = `
+<div
+  className="table"
+>
+  <div
+    className="table-header"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+        type="button"
+      >
+        Заголовок
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "20%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+        type="button"
+      >
+        Автор
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "15%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+        type="button"
+      >
+        Комментарии
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "15%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+        type="button"
+      >
+        Очки
+      </button>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      Архив
+    </span>
+  </div>
+  <div
+    className="table-row"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <a>
+        1
+      </a>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "20%",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={
+        Object {
+          "width": "15%",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={
+        Object {
+          "width": "15%",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+        type="button"
+      >
+        Отбросить
+      </button>
+    </span>
+  </div>
+  <div
+    className="table-row"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <a>
+        2
+      </a>
+    </span>
+    <span
+      style={
+        Object {
+          "width": "20%",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={
+        Object {
+          "width": "15%",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={
+        Object {
+          "width": "15%",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={
+        Object {
+          "width": "10%",
+        }
+      }
+    >
+      <button
+        className="button-inline"
+        onClick={[Function]}
+        type="button"
+      >
+        Отбросить
+      </button>
+    </span>
+  </div>
+</div>
+`;
